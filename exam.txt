@@ -1,1 +1,1 @@
-create a local git repository , add a text file , commit the changes , connect the reoo to a new gthub repo and push the commit 
+create a local git repository 
